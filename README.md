@@ -9,7 +9,7 @@ This is an app where users get to post and view blogs from fellow bloggers with 
 * Clone Project to your machine
 * Activate a virtual environment on terminal: source virtual/bin/activate
 * Install all the requirements found in requirements file.
-* On your terminal run python3.9 manage.py runserver
+* On your terminal run python3 manage.py runserver
 * Access the live site using the local host provided 
 ### Prerequisites
 * python3.9
