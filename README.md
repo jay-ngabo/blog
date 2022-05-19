@@ -2,7 +2,7 @@
 BLOG APP
 
 ## Author
-Caleb bii.
+Jacqueline Ngabo.
 ### Description
 This is an app where users get to post and view blogs from fellow bloggers with intentions of self expression.The users can comment on the blogs too.In addition the user is displayed for random blogs at the top of the homepage.
 ### Setup and installations
