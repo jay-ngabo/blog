@@ -43,3 +43,4 @@ CSS
 [MIT Lisence](https://github.com/jay-ngabo/Blog-App/blob/main/LICENSE) Copyright (c) 2021 jay-ngabo.
 ### contacts
 Phone -= +254724764835
+email - ngabo.jay@gmail.com
