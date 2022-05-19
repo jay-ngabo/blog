@@ -12,16 +12,16 @@ This is an app where users get to post and view blogs from fellow bloggers with 
 * On your terminal run python3 manage.py runserver
 * Access the live site using the local host provided 
 ### Prerequisites
-* python3.9
+* python3
 * virtual environment
 * pip 
 ### Clone the Repo 
-* git clone https:https://github.com/Calebbii/News-API.git
+* git clone https:https://github.com/jay-ngabo/News-API.git
 * Initialize git and add the remote repository
 * git init
 * git remote add origin <your-repository-url>
 * Create and activate the virtual environment
-* python3.9-venv virtual
+* python3-venv virtual
 * source virtual/bin/activate
 * Install dependancies
 * Install dependancies that will create an environment for the app to run pip install -r requirements.txt
@@ -40,4 +40,4 @@ Boostrap
 HTML
 CSS
 ### License
-[MIT Lisence](https://github.com/Calebbii/Blog-App/blob/main/LICENSE) Copyright (c) 2021 Calebbii.
+[MIT Lisence](https://github.com/jay-ngabo/Blog-App/blob/main/LICENSE) Copyright (c) 2021 Calebbii.
