@@ -40,4 +40,4 @@ Boostrap
 HTML
 CSS
 ### License
-[MIT Lisence](https://github.com/jay-ngabo/Blog-App/blob/main/LICENSE) Copyright (c) 2021 Calebbii.
+[MIT Lisence](https://github.com/jay-ngabo/Blog-App/blob/main/LICENSE) Copyright (c) 2021 jay-ngabo.
